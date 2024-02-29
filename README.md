@@ -1,6 +1,6 @@
 # LGS-PPIS
 
-Code for paper "LGS-PPIS: A Local-Global Structural Information Aggregation Framework for Predicting Protein-Protein Interaction Sites"
+Code for the official implementation of paper "LGS-PPIS: A Local-Global Structural Information Aggregation Framework for Predicting Protein-Protein Interaction Sites"
 ---
 
 Dependencies
