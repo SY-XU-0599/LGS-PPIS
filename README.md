@@ -30,7 +30,7 @@ Data preparation
 ---
 The relevant data and trained model can be available at the [Link](https://pan.baidu.com/s/1Z1HBAHZnmzXCFjHVvbO7Ag?pwd=1234). If the above link fails, you can choose an [Alternate Link](https://zenodo.org/records/13952369/files/Data.rar?download=1).
 
-Unzip the above file to the corresponding directory.
+Unzip the above file to the corresponding directory according to the code run prompt.
 
 Test
 ---
